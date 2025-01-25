@@ -1,0 +1,22 @@
+{
+  "name": "simple-website",
+  "version": "1.0.0",
+  "description": "A simple web page template featuring a typical frame layout.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "web",
+    "template",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
